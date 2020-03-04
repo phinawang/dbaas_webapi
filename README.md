@@ -3,8 +3,8 @@ Restful api for VTR Database as service (frontend)
 
 ## How to Build
 ```sh
-$ git clone https://adc.github.trendmicro.com/phina-wang/vtr_gin.git
-$ cd vtr_gin
+$ git clone https://github.com/phinawang/dbaas_webapi.git
+$ cd dbaas_webapi
 $ make
 ```
 
